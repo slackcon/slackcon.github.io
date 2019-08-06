@@ -4,10 +4,11 @@
 }
 
 body{
-	font-size: 1.3em;
+	font-size: 1.5em;
 	font-family: terminus;
 	margin: 0 auto;
 	background-color: #fdfdfd;
+	color: #0f0f0f;
 }
 .logo{
 	width: 50%;
@@ -22,7 +23,7 @@ header{
 }
 nav{
 	background-color: black;
-	box-shadow: 1px 5px 5px 1px black;
+	box-shadow: 1px 5px 5px 1px #d9d9d9;
 }
 #container{
 	padding: 1%;
@@ -33,17 +34,22 @@ nav{
 
 .local{
 	box-shadow: 1px 1px 5px 1px #d9d9d9;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
 	padding-right: 4%;
 	margin: 0.5%;
-	float: right;
-	text-align: left;
-	background-color: #d5d5d5;
+	float: center;
+	text-align: justify;
+	background-color: #f1f1f1;
 	color: black;
 }
 
+.imglocal{
+	width: 60%;
+}
 
 .sponsors{
-	background-color: #d5d5d5;
+	background-color: #f1f1f1;
 	box-shadow: 1px 1px 5px 1px #d9d9d9;
 	margin-top: 5%;
 	margin-left: 3%;
