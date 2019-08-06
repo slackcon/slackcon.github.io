@@ -16,6 +16,7 @@ body{
 	margin-right: auto;
 	margin-left: auto;
 }
+
 header{
 	background-color: black;
 }
@@ -31,12 +32,29 @@ nav{
 }
 
 .local{
+	box-shadow: 1px 1px 5px 1px #d9d9d9;
 	padding-right: 4%;
 	margin: 0.5%;
 	float: right;
 	text-align: left;
 	background-color: #d5d5d5;
 	color: black;
+}
+
+
+.sponsors{
+	background-color: #d5d5d5;
+	box-shadow: 1px 1px 5px 1px #d9d9d9;
+	margin-top: 5%;
+	margin-left: 3%;
+	margin-right: 3%;
+	padding: 0.5%;
+	text-align: center;
+}
+
+.sponsorslogo{
+	margin: 0.5%;
+	box-shadow: 1px 1px 5px 1px #ededed;
 }
 
 footer{
