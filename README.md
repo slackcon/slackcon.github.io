@@ -1,2 +1,2 @@
-# slackconf.github.io
+# slackcon.github.io
 Website
