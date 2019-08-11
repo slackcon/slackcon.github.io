@@ -6,7 +6,6 @@
  * Data : 2019-08-10
  */
 ?>
-
 <div id="container">
     <h1>Formulário de Inscrição</h1>
     <p>
@@ -19,24 +18,24 @@
 
     <form action="/signup" method="post">
         <p>
-            <label>Primeiro Nome</label><br>
-            <input type="text" name="first_name">
+            <label>Primeiro Nome <b>*</b></label><br>
+            <input type="text" name="first_name" required>
         </p>
         <p>
-            <label>Sobrenome</label><br>
-            <input type="text" name="last_name">
+            <label>Sobrenome <b>*</b></label><br>
+            <input type="text" name="last_name" required>
         </p>
         <p>
-            <label>Email</label><br>
+            <label>Email <b>*</b></label><br>
             <input type="email" name="email" required>
         </p>
         <p>
             <label>Telegram</label><br>
-            <input type="tel" name="phone" placeholder="EX: @slackjeff">
+            <input type="tel" name="telegram">
         </p>
         <p>
-            <label>Senha</label><br>
-            <input type="password" name="password">
+            <label>Fingerprint GPG</label><br>
+            <input type="email" name="gpg">
         </p>
         <p>
             <label>Estado</label><br>
@@ -46,7 +45,6 @@
                 <option>Amazonas</option>
                 <option>Bahia</option>
                 <option>Ceará</option>
-                <option>Distrito Federal</option>
                 <option>Espírito Santo</option>
                 <option>Goiás</option>
                 <option>Maranhão</option>
@@ -66,12 +64,33 @@
                 <option>São Paulo</option>
                 <option>Sergipe</option>
                 <option>Tocantins</option>
+                <option>Distrito Federal</option>
             </select>
         </p>
         <p>
             <label>
                 <input type="checkbox" value="terms">
-                Você gostaria de receber uma bolsa refeição <b>(Almoço e Janta)</b> para os <u>quatro dias</u> da SlackCON? 
+                Você gostaria de receber uma bolsa refeição <b>Almoço</b> para os <u>quatro dias</u> da SlackCON?
+            </label>
+        </p>
+
+        <p>
+            <label>Qual o tamanho da sua camisa?</label><br>
+            <label>
+                <input type="radio" name="title" value="p">
+                P
+            </label>
+            <label>
+                <input type="radio" name="title" value="m">
+                M
+            </label>
+            <label>
+                <input type="radio" name="title" value="g">
+                G
+            </label>
+            <label>
+                <input type="radio" name="title" value="gg">
+                GG
             </label>
         </p>
         <p>
