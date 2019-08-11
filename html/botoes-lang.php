@@ -6,7 +6,7 @@
  * Data : 2019-08-10
  */
 ?>
-<footer>
-    > © 2019 SlackCON.<br>
-    > Slackware® is a registered trademark of Slackware Linux, Inc. All logos and graphics are copyrighted.
-</footer>
+<div id="botoes-lang">
+    <a class="lang" onclick="idioma('pt-br')">Português</a>
+    <a class="lang" onclick="idioma('en')">English</a>
+</div>

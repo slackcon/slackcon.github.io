@@ -1,0 +1,408 @@
+{
+    "_SOBRE_ESTE_DICIONARIO_": [
+        {
+            "_Licença_": "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007 ( https://www.gnu.org/licenses/gpl-3.0.en.html ",
+            "_Autor_": "Vovolinux <suporte@viniciusalopes.com.br>", 
+            "_Data_": "2019-08-10",
+            "_Exemplo_de_estrutura_": "Logo abaixo, belesma?"
+        }
+    ],
+    "/site/pagina.php": [
+        {
+            "pt-br": "texto_pt_br_1",
+            "en": "texto_en_1"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        }
+    ],
+    "/slackcon/index.php": [
+        {
+            "pt-br": "Conferência Anual da comunidade Slackware",
+            "en": "Slackware Community Annual Confrerence"
+        },
+        {
+            "pt-br": "Sobre o Evento",
+            "en": "About Event"
+        },
+        {
+            "pt-br": "Propaganda",
+            "en": "Advertising"
+        },
+        {
+            "pt-br": "Como Colaborar",
+            "en": "How to Collaborate"
+        },
+        {
+            "pt-br": "Contato",
+            "en": "Contact"
+        },
+        {
+            "pt-br": "Saiba mais",
+            "en": "Read more"
+        },
+        {
+            "pt-br": "O que é SlackCON?",
+            "en": "What is SlackCON?"
+        },
+        {
+            "pt-br": "SlackCON é um esforço da comunidade para organizar um evento anual de quatro dias, direcionada a distribuição Slackware Linux, a distribuição Linux mais antiga ainda em desenvolvimento.",
+            "en": "SlackCON is a community effort to organize an annual four-day event targeting the Slackware Linux distribution, the oldest Linux distribution still under development."
+        },
+        {
+            "pt-br": "O evento é um verdadeiro campo de treinamento, serve para <u>unir</u> mais a comunidade, conhecer mais o Slackware, novas tecnologias e claro, ajudar no desenvolvimento do projeto",
+            "en": "The event is a real training ground, it serve to bring the community <u>closer</u>, learn more about Slackware, new technologies and of course help in the development of the project"
+        },
+        {
+            "pt-br": "Divulgação",
+            "en": "Disclosure"
+        },
+        {
+            "pt-br": "Publicidade",
+            "en": "Advertising"
+        },
+        {
+            "pt-br": "Ideias",
+            "en": "Ideas"
+        },
+        {
+            "pt-br": "Reportar Bug",
+            "en": "Bug report"
+        },
+        {
+            "pt-br": "Documentação",
+            "en": "Documentation"
+        },
+        {
+            "pt-br": "Mantenedor Slackbuilds",
+            "en": "Slackbuilds Maintainer"
+        },
+        {
+            "pt-br": "Comercial",
+            "en": "Commercial"
+        },
+        {
+            "pt-br": "Formas de doação para o projeto Slackware",
+            "en": "Donation Forms for the Slackware Project"
+        },
+        {
+            "pt-br": "Empacotamento para comunidade",
+            "en": "Packaging for Community"
+        },
+        {
+            "pt-br": "Tecnologias para o mundo GNU/Linux em geral",
+            "en": "Technologies for the GNU/Linux World in General"
+        },
+        {
+            "pt-br": "Com isso conseguimos manter uma comunidade ainda mais fiel e semear o conhecimento do projeto para os que não conhecem. Assim conseguimos tornar a comunidade mais forte, sem nenhum tipo de barreiras.",
+            "en": "This allows us to keep an even more faithful community and seed project knowledge to those who do not know it. So we can make the community stronger without any barriers."
+        },
+        {
+            "pt-br": "A ideia inicial é ir variando anualmente os estados do Brasil, ou seja, todo ano o evento é organizado em um estado diferente no Brasil e quem sabe um dia no mundo.<br>",
+            "en": "The initial idea is to vary the states of Brazil annually, that is, every year the event is organized in a different state in Brazil and maybe later in the world.<br>"
+        },
+        {
+            "pt-br": "A votação das cidades é feita pela comunidade, qualquer pessoa pode votar.",
+            "en": "The voting of cities is done by the community, anyone can vote"
+        },
+        {
+            "pt-br": "O evento inicialmente não é endossado pelo projeto Slackware, como dito é um esforço da comunidade, não somos também uma empresa. Tudo é feito de uma forma colaborativa pela comunidade. <b>SEM FINS LUCRATIVOS</b>.",
+            "en": "Initially the event is not endorsed by the Slackware project, as said it is a community effort we are not also a company. Everything is done in a collaborative way by the community. <b>NO PROFIT</b>."
+        },
+        {
+            "pt-br": "O que irei encontrar na SlackCON?",
+            "en": "What will I find at SlackCON?"
+        },
+        {
+            "pt-br": "Palestras",
+            "en": "Lecture"
+        },
+        {
+            "pt-br": "Oficinas",
+            "en": "Workshops"
+        },
+        {
+            "pt-br": "GPG Fest",
+            "en": "GPG Fest"
+        },
+        {
+            "pt-br": "Install Fest",
+            "en": "Install Fest"
+        },
+        {
+            "pt-br": "Lan OLD Games",
+            "en": "Lan OLD Games"
+        },
+        {
+            "pt-br": "Quer ajudar o evento?",
+            "en": "Want to help the event?"
+        },
+        {
+            "pt-br": "Acesse <a href=\"colabore.php\">Como colaborar</a> para saber as várias maneiras de colaborar.",
+            "en": "Visit <a href=\"colabore.php\">How to Collaborate</a> to read about the various ways to collaborate."
+        },
+        {
+            "pt-br": "Patrocinador Ouro",
+            "en": "Gold Sponsor"
+        },
+        {
+            "pt-br": "Patrocinador Prata",
+            "en": "Silver Sponsor"
+        },
+        {
+            "pt-br": "Patrocinador Bronze",
+            "en": "Bronze Sponsor"
+        },
+        {
+            "pt-br": "Parceiros",
+            "en": "Partners"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        },
+        {
+            "pt-br": "texto_pt_br_2",
+            "en": "texto_en_2"
+        }
+    ],
+    "/slackcon/colabore.php": [
+        {
+            "pt-br": "Conferência Anual da comunidade Slackware",
+            "en": "Slackware Community Annual Confrerence"
+        },
+        {
+            "pt-br": "Sobre o Evento",
+            "en": "About Event"
+        },
+        {
+            "pt-br": "Propaganda",
+            "en": "Advertising"
+        },
+        {
+            "pt-br": "Como Colaborar",
+            "en": "How to Collaborate"
+        },
+        {
+            "pt-br": "Contato",
+            "en": "Contact"
+        },
+        {
+            "pt-br": "Como posso Colaborar?",
+            "en": "How Can I Collaborate?"
+        },
+        {
+            "pt-br": "O SlackCON é um trabalho comunitário desenvolvido pela comunidade Slackware e <b>SEM FINS LUCRATIVOS</b>.<br>",
+            "en": "The SLACKCON is a community service developed by the Slackware Community and <b> WITH NO PROFIT</b>.<br>"
+        },
+        {
+            "pt-br": "Existem algumas formas que você pode colaborar para realização do evento:",
+            "en": "There are ways you can contribute for the realization of this event:"
+        },
+        {
+            "pt-br": "Patrocinando o evento",
+            "en": "Sponsoring this event"
+        },
+        {
+            "pt-br": "Você pode patrocinar o evento aonde ficará registrado a sua logo em nossa página principal, banners, estampa na camisa, slides e propagandas do evento. E isto fica para a história do evento.",
+            "en": "You can sponsor the event where will be registered your logo in our homepage banners, shirt stamps, slides and ads of the event. And this will remain for the event's history."
+        },
+        {
+            "pt-br": "Toda arrecadação que conseguimos será repassado para os evento, para tal conseguir ser realizado na cidade escolhida pela comunidade.",
+            "en": "All funds that we get will be repassed for the event, to be made in the city chosen by the community."
+        },
+        {
+            "pt-br": "Para escolher a cidade será realizada uma votação, aonde todos tem voz sem <u>exceção</u>.",
+            "en": "To choose the city a votation will be made where everyone has a voice, no  <u>exceptions</u>."
+        },
+        {
+            "pt-br": "Mas aonde as doações/patrocínios serão aplicadas???",
+            "en": "But where the donations/funds will be applied???"
+        },
+        {
+            "pt-br": "<b>Domínio/Hospedagem</b>: Pagar o domínio e hospedagem deste site anualmente.",
+            "en": "<b>Domain/Hosting</b>: Pay the domain and hosting of this website yearly."
+        },
+        {
+            "pt-br": "<b>Brindes</b>: Camisas, certificados, adesivos, crachá e bottons. Para todos os participantes.",
+            "en": "<b>Giveaways</b>: Shirts,certificates, stickers, name tag and bottons. For all the participants."
+        },
+        {
+            "pt-br": "<b>Banners</b>: Para espalhar no evento.",
+            "en": "<b>Banners</b>: To spread in the event."
+        },
+        {
+            "pt-br": "<b>Refeição</b>: Almoço e Café da tarde para os participantes.",
+            "en": "<b>Meal</b>: Dinner and afternoon lunch for the participants."
+        },
+        {
+            "pt-br": "<b>Localização</b>: Como sabemos no Brasil o Slackware não é apoiado pelas universidades, como é o primeiro evento organizado, teremos que locar um ambiente próprio para organizar o evento.<br>",
+            "en": "<b>Localization</b>: As we know in Brazil, Slackware is not supported by universities, being the first and organized event we have to designate an enviroment to organize the event.<br>"
+        },
+        {
+            "pt-br": "Futuramente quem sabe conseguimos o apoio das mesmas ou até mesmo de hacklabs.",
+            "en": "In the future who knows we'll get the support of the universities or even the hacklabs."
+        },
+        {
+            "pt-br": "<b>Ajuda ao Projeto</b>: Uma porcentagem da arrecadação será enviada para o projeto Slackware. Isto para ajudar o criador do projeto Patrick Volkerding, sem o esforço do mesmo no projeto slackware este evento não iria acontecer.",
+            "en": "<b>Help to the Project</b>: One percent of the fund will be sent to the Slackware project. This will help the creator of the project o Patrick Volkerding, without the effort of the creator on the Slackware Project. This event wouldn't be made."
+        },
+        {
+            "pt-br": "O evento oferece três categorias de patrocínios, sendo elas:",
+            "en": "The event offers three categories of sponsorships, including:"
+        },
+        {
+            "pt-br": "<b>Ouro</b>: Logo inicial de 500x200 pixels.",
+            "en": "<b>Gold</b>: Initial logo of 500x200 pixels."
+        },
+        {
+            "pt-br": "<b>Prata</b>: Logo na página inicial de 300x250 pixels.",
+            "en": "<b>Silver</b>: Homepage logo of 300x250 pixels."
+        },
+        {
+            "pt-br": "<b>Bronze</b>: Logo na página inicial de 170x150 pixels.",
+            "en": "<b>Bronze</b>: Homepage logo of 170x150 pixels."
+        },
+        {
+            "pt-br": "Independente da categoria, o logo do patrocinador será distribuído em todos os brindes que serão fornecidos pelo evento, propagandas e slides.",
+            "en": "Regardless of category the sponsor logo, will be distributed in all gifts given by the event ads and slides."
+        },
+        {
+            "pt-br": "Acesse este link para valores (Em processo)",
+            "en": "Access this link for prizes (In progress)"
+        },
+        {
+            "pt-br": "Doando ao evento",
+            "en": "Donating to the event"
+        },
+        {
+            "pt-br": "Você pode se juntar ao esforço, doando qualquer quantia para o evento.<br>",
+            "en": "You can join our effort by donating any quantity for the event.<br>"
+        },
+        {
+            "pt-br": "A ajuda será para a mesma finalidade da listagem que fizemos acima, aos patrocinadores.",
+            "en": "Help will be the same finality of the listage we did above of the sponsors."
+        },
+        {
+            "pt-br": "Seu nome se assim preferir, será divulgado na página de Contribuintes.",
+            "en": "Your name, if you wish,  will be shown on the page of contributors."
+        },
+        {
+            "pt-br": "Acesse nossa vaquinha (Em processo)",
+            "en": "Access our Crowdfunding (In Progress)"
+        },
+        {
+            "pt-br": "Ajudando a organizar o evento em sua cidade.",
+            "en": "Helping organize the event in your city."
+        },
+        {
+            "pt-br": "Anualmente será escolhida uma cidade para a SlackCON acontecer. Se caso sua cidade for a escolhida pela comunidade, você pode ajudar organizando o evento.",
+            "en": "A city will be chosen anually for the SLACKON happen. In case your city be chosen by the community, you can help organizing the event."
+        },
+        {
+            "pt-br": "Se ela não for a escolhida mas você pretende participar do evento na cidade aonde será realizada, você também pode ajudar a organizar, mas de que forma?",
+            "en": "If she's not the chosen one but you want to participate in the event where will occur you can help organize. In which way?"
+        },
+        {
+            "pt-br": "<b>Organizar o Evento</b>, Fazer parte do time local e indo atrás de uma boa localização, hospedagens boas e baratas, refeição etc... ",
+            "en": "<b>Organizing the event</b>, Being part of the local team and going after a good localization, good hotels cheap meals, etc... "
+        },
+        {
+            "pt-br": "<b>Palestrando</b>",
+            "en": "<b>Lecturing</b>"
+        },
+        {
+            "pt-br": "<b>Criando Oficinas de um determinado assunto</b>, por exemplo (Empacotamento Slackware), (Como colaborar na wiki do Slackware) etc...",
+            "en": "<b>Creating workshops of a specific topic.</b>, for instance (Slackware Package), (How to collaborate on Slackware's wiki) etc..."
+        },
+        {
+            "pt-br": "<b>Voluntáriado no evento</b> para ajudar a organizar o mesmo nos dias que estiver rolando o SlackCON.",
+            "en": "<b>Volunteering on the event</b> to help organize the same on the days the SLACKON will happen."
+        },
+        {
+            "pt-br": "<b>Instalando o sistema no Installfest.</b>",
+            "en": "<b>Installing the system on Installfest.</b>"
+        },
+        {
+            "pt-br": "><b>Filmando o evento.</b>",
+            "en": "<b>Filming the event.</b>"
+        },
+        {
+            "pt-br": "<b>Fotografando o evento.</b>",
+            "en": "<b>Photographing the event.</b>"
+        },
+        {
+            "pt-br": "Outras maneiras",
+            "en": "Other Ways"
+        },
+        {
+            "pt-br": "Existem outras formas de você colaborar e precisamos de você nestas áreas mais técnicas.",
+            "en": "There are other ways of you collaborating with the project and we need you in these more techincal areas."
+        },
+        {
+            "pt-br": "Usamos o <b>github.com/slackcon</b> como principal plataforma para todo desenvolvimento.",
+            "en": "We use o <b>github.com/slackcon</b> as main platform for the developing."
+        },
+        {
+            "pt-br": "<b>Divulgação.</b>",
+            "en": "<b>Divulgation.</b>."
+        },
+        {
+            "pt-br": "<b>Arte/Designer.</b>",
+            "en": "<b>Art/Design.</b>"
+        },
+        {
+            "pt-br": "<b>Programando.</b>.",
+            "en": "<b>Programming.</b>"
+        },
+        {
+            "pt-br": "<b>Corrigindo erros de ortografia e incrementando os textos tornando-os mais ricos.</b>",
+            "en": "<b>Correcting spelling errors, and increasing them turning more rich.</b>"
+        },
+        {
+            "pt-br": "<b>Ideias.</b>",
+            "en": "<b>Ideas.</b>"
+        }
+    ]
+}
