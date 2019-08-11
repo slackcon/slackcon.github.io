@@ -12,6 +12,6 @@
         <li class="menulink"><a href="propaganda.php">Propaganda</a></li>
         <li class="menulink"><a href="colabore.php">Como Colaborar</a></li>
         <li class="menulink"><a href="#">Contato</a></li>
-        <li class="menulink"><a href="#">Login</a></li>
+        <li class="menulink"><a href="login.php">Login</a></li>
     </ul>
 </nav>
