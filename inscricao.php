@@ -17,7 +17,7 @@
             <?php require_once 'html/logo.php' ?>
         </header>
         <?php require_once 'html/nav.php' ?>
-        <?php require_once 'contents/propaganda-content.php' ?>
+        <?php require_once 'contents/inscricao-content.php' ?>
         <?php require_once 'html/footer.php' ?>
     </body>
 </html>

@@ -46,7 +46,8 @@ function idioma(novo_idioma) {
             // Executa a tradução 
             traduzir(html, objDic[pagina], idioma_atual, novo_idioma)
         } else {
-            console.log('Não existe dicionário para esta página.')
+            alert('There is no dictionary for this page yet.\nWhat about collaborating?\nGo to:\nhttps: //slackjeff.com/slackcon/colabore.php \nto find out how ...')
+            alert('Ainda não existe um dicionário para esta página.\nQue tal colaborar?\nAcesse:\nhttps://slackjeff.com.br/slackcon/colabore.php \npara saber como...')
             return
         }
     }
