@@ -25,6 +25,12 @@
             <label>Sobrenome <b>*</b></label><br>
             <input type="text" name="last_name" required>
         </p>
+
+        <p>
+            <label>Nick</label><br>
+            <input type="nick" name="gpg">
+        </p>
+
         <p>
             <label>Email <b>*</b></label><br>
             <input type="email" name="email" required>
@@ -33,10 +39,17 @@
             <label>Telegram</label><br>
             <input type="tel" name="telegram">
         </p>
+
         <p>
-            <label>Fingerprint GPG</label><br>
-            <input type="email" name="gpg">
+            <label>Senha <b>*</b></label><br>
+            <input type="password" name="password" required>
         </p>
+
+        <p>
+            <label>Confirmar Senha <b>*</b></label><br>
+            <input type="password" name="password_confirm" required>
+        </p>
+
         <p>
             <label>Estado</label><br>
             <select>
@@ -67,6 +80,7 @@
                 <option>Distrito Federal</option>
             </select>
         </p>
+
         <p>
             <label>
                 <input type="checkbox" value="terms">
