@@ -16,6 +16,15 @@
         Todas palestras voltadas ao Slackware e outras tecnologias são bem vindas.
     </p>
 
+    <!-- SE O USUARIO JA TER ALGUMA PALESTRA REGISTRADA INSIRA QUAIS -->
+    <div id="palestras_cadastradas">
+        <h2>Suas Palestras já cadastradas</h2>
+        <a href="#">Programação em Shell script para iniciantes (TESTE)</a>
+        <br>
+        <a href="#">A arte do GCC (TESTE)</a>
+    </div>
+
+
     <form action="/signup" method="post">
         <p>
             <label>Nome da Palestra <b>*</b></label><br>

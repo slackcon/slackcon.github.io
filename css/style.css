@@ -49,6 +49,29 @@ nav{
     color: black;
 }
 
+
+#palestras_cadastradas{
+    background-color: #f1f1f1;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    padding-top: 0.2%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#oficinas_cadastradas{
+    background-color: #f1f1f1;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    padding-top: 0.2%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
 .imglocal{
     width: 60%;
 }

@@ -16,6 +16,14 @@
         Todas oficinas deverão ser voltadas ao Slackware, e outras tecnologias são bem vindas.
     </p>
 
+    <!-- SE O USUARIO JA TER ALGUMA OFICINA REGISTRADA INSIRA QUAIS -->
+    <div id="oficinas_cadastradas">
+        <h2>Suas Oficinas já cadastradas</h2>
+        <a href="#">Programação em Shell script para iniciantes (TESTE)</a>
+        <br>
+        <a href="#">A arte do GCC (TESTE)</a>
+    </div>
+
     <form action="/signup" method="post">
         <p>
             <label>Nome da Oficina <b>*</b></label><br>
