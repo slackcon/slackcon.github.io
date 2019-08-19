@@ -33,6 +33,10 @@ nav{
     margin: 2em auto;max-width: 45em;
 }
 
+#menu_logado{
+    padding: 2%;
+}
+
 .local{
     box-shadow: 1px 1px 5px 1px #d9d9d9;
     padding-top: 0.5%;
@@ -128,4 +132,22 @@ a.lang{
     margin: 5px;
     padding: 5px;
     cursor: pointer;
+}
+
+a.link_logado{
+    background-color: #5168b4;
+    color: white;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding: 2%;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+
+a:hover.link_logado{
+    background-color: black;
 }
