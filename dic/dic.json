@@ -7,7 +7,7 @@
             "_Exemplo_de_estrutura_": "Logo abaixo, belesma?"
         }
     ],
-    "/slackcon/pagina-de-exemplo.php": [
+    "/pagina-de-exemplo.php": [
         {
             "pt-br": "texto_pt_br_1",
             "en": "texto_en_1"
@@ -17,7 +17,7 @@
             "en": "texto_en_2"
         }
     ],
-    "/slackcon/index.php": [
+    "/index.php": [
         {
             "pt-br": "Conferência Anual da comunidade Slackware",
             "en": "Slackware Community Annual Confrerence"
@@ -207,7 +207,7 @@
             "en": "texto_en_2"
         }
     ],
-    "/slackcon/colabore.php": [
+    "/colabore.php": [
         {
             "pt-br": "Conferência Anual da comunidade Slackware",
             "en": "Slackware Community Annual Confrerence"
