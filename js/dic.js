@@ -19,7 +19,7 @@ function idioma(novo_idioma) {
     }
 
     // Diretório do site
-    var root = '/slackcon/'
+    var root = '/'
 
     // Identifica a página atual
     var pagina = window.location.pathname
@@ -46,8 +46,8 @@ function idioma(novo_idioma) {
             // Executa a tradução 
             traduzir(html, objDic[pagina], idioma_atual, novo_idioma)
         } else {
-            alert('There is no dictionary for this page yet.\nWhat about collaborating?\nGo to:\nhttps: //slackjeff.com/slackcon/colabore.php \nto find out how ...')
-            alert('Ainda não existe um dicionário para esta página.\nQue tal colaborar?\nAcesse:\nhttps://slackjeff.com.br/slackcon/colabore.php \npara saber como...')
+            alert('There is no dictionary for this page yet.\nWhat about collaborating?\nGo to:\nhttps: //slackcon.org/colabore.php \nto find out how ...')
+            alert('Ainda não existe um dicionário para esta página.\nQue tal colaborar?\nAcesse:\nhttps://slackcon.org/colabore.php \npara saber como...')
             return
         }
     }
